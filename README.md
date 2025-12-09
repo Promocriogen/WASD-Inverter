@@ -1,25 +1,27 @@
-# WASD Inverter (Standalone App)
+# WASD Inverter Tool 🎮
 
-**A lightweight tool to invert keyboard inputs for gaming.**
+**A lightweight Windows utility to invert keyboard controls for games/apps.**
 
-## 🔒 Security & Privacy
-This application is **Closed Source**. 
-It utilizes `SetWindowsHookEx` to function. 
-*   **No data is recorded.**
-*   **No internet connection is required.**
-*   **No logs are saved.**
+*Developed for accessibility and custom control schemes.*
 
-### 🦠 Virus Scan Proof
-Because this tool interacts with keyboard inputs, some antiviruses may flag it as a false positive.
-**[View VirusTotal Scan Results Here](PASTE_YOUR_VIRUSTOTAL_LINK_HERE)**
+## 🛡️ Security Information
+This repository hosts the compiled application. The source code is closed to prevent unauthorized modification.
+*   **No Internet Required:** The app runs entirely offline.
+*   **No Logging:** No keystrokes are saved or transmitted.
+*   **False Positives:** Because this tool uses `SetWindowsHookEx` to remap keys, some Antivirus software may flag it. This is a known behavior for input-remapping tools.
 
-## 📥 Download
-Go to the **[Releases Section](../../releases)** on the right sidebar to download the latest `.exe`.
+## ⚙️ Features
+*   **Invert WASD:** Swaps W/S and A/D.
+*   **Arrow Mode:** Support for Arrow keys.
+*   **Stealth Mode:** Hides window title.
+*   **Safety Switch:** CTRL+DELETE to kill the process instantly.
 
-## ⚠️ Requirements
-*   Windows 10/11
-*   Run as Administrator (Required for Games)
+## 📥 How to Download
+1.  Go to the **[Releases](../../releases)** section on the right.
+2.  Download `WASD_Inverter.zip`.
+3.  Extract and run as **Administrator**.
 
 ## ⚖️ License
-Copyright © 2025 [Your Name]. All Rights Reserved.
-Distribution allowed, but modification/reverse-engineering is prohibited.
+**Copyright © 2025 Promocriogen. All Rights Reserved.**
+You may not reverse-engineer, decompile, or modify this software.
+Provided "as-is" without warranty.

@@ -4,6 +4,8 @@
 
 *Developed for accessibility and custom control schemes.*
 
+![App preview image](app_preview.png)
+
 ## 🛡️ Security Information
 This repository hosts the compiled application. The source code is closed to prevent unauthorized modification.
 *   **No Internet Required:** The app runs entirely offline.

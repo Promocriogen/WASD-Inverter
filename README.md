@@ -23,8 +23,10 @@ This repository hosts the compiled application. The source code is closed to pre
 **DONT FORGET TO DOWNLOAD .NET Framework 4.7.2!!**
 
 1.  Go to the **[Releases](../../releases)** section on the right.
-2.  Download `WASD_Inverter.zip`.
-3.  Extract and run as **Administrator**.
+2.  Find assets tab and download `WASD_Inverter.exe`.
+3.  Extract and run.
+
+NOTE: You can run it without administrator
 
 ## ⚖️ License
 **Copyright © 2025 Promocriogen. All Rights Reserved.**
